@@ -31,10 +31,6 @@ Data server catalogue
     platforms =         ['POSIX', 'Linux', 'Windows'],
     install_requires =  ['requests', 'six', 'ceda-unittest-nagios-wrapper',
                          'cedadev-slack-logging-handler'],
-    dependency_links = ["git+https://github.com/cedadev/ceda-unittest-nagios"
-                          "-wrapper.git#egg=ceda-unittest-nagios-wrapper", 
-                        "git+https://github.com/cedadev/slack-logging-handler"
-                          ".git#egg=cedadev-slack-logging-handler"],
     license =           __license__,
     test_suite =        '',
     packages =          find_packages(),
