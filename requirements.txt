@@ -1,2 +1,0 @@
-git+https://github.com/cedadev/ceda-unittest-nagios-wrapper/master#egg=ceda-unittest-nagios-wrapper
-git+https://github.com/cedadev/slack-logging-handler/master#egg=cedadev-slack-logging-handler
